@@ -1,2 +1,4 @@
 .idea
 **/**/.exercism
+**/**/.gradle
+**/**/build
