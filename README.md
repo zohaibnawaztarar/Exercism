@@ -4,7 +4,7 @@ My solutions to the popular exercism coding challenge platform.
 
 To learn more about the platform visit [exercism.io](https://exercism.io/)
 
-## Completed (7)
+## Completed (9)
 
 ### Java (7)
 
@@ -16,9 +16,16 @@ To learn more about the platform visit [exercism.io](https://exercism.io/)
 - Resistor Color Duo
 - Darts
 
-## In Progress (1)
+### C# (2)
+- Hello World
+- Two Fer
+
+## In Progress (2)
 
 ### Java (1)
 
 - Armstrong Numbers
+
+### C# (1)
+- Leap
 
