@@ -1,10 +1,11 @@
 # My exercism.io solutions
 
-My solutions to the popular exercism coding challenge platform.
+My [solutions](https://exercism.io/profiles/zohaibnawaztarar) to the popular exercism coding challenge platform.
 
 To learn more about the platform visit [exercism.io](https://exercism.io/)
 
-## Completed (9)
+
+## Completed (10)
 
 ### Java (7)
 
@@ -16,9 +17,10 @@ To learn more about the platform visit [exercism.io](https://exercism.io/)
 - Resistor Color Duo
 - Darts
 
-### C# (2)
+### C# (3)
 - Hello World
 - Two Fer
+- Leap
 
 ## In Progress (2)
 
@@ -27,5 +29,5 @@ To learn more about the platform visit [exercism.io](https://exercism.io/)
 - Armstrong Numbers
 
 ### C# (1)
-- Leap
+- Gigasecond
 
