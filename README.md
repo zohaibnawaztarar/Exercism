@@ -5,7 +5,7 @@ My [solutions](https://exercism.io/profiles/zohaibnawaztarar) to the popular exe
 To learn more about the platform visit [exercism.io](https://exercism.io/)
 
 
-## Completed (10)
+## Completed (11)
 
 ### Java (7)
 
@@ -18,9 +18,14 @@ To learn more about the platform visit [exercism.io](https://exercism.io/)
 - Darts
 
 ### C# (3)
+
 - Hello World
 - Two Fer
 - Leap
+
+### JavaScript(1)
+
+- Hello World
 
 ## In Progress (2)
 
@@ -29,5 +34,10 @@ To learn more about the platform visit [exercism.io](https://exercism.io/)
 - Armstrong Numbers
 
 ### C# (1)
+
 - Gigasecond
+
+### JavaScript(1)
+
+- Two Fer
 
