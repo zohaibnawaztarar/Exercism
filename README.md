@@ -5,7 +5,7 @@ My [solutions](https://exercism.io/profiles/zohaibnawaztarar) to the popular exe
 To learn more about the platform visit [exercism.io](https://exercism.io/)
 
 
-## Completed (11)
+## Completed (12)
 
 ### Java (7)
 
@@ -23,11 +23,12 @@ To learn more about the platform visit [exercism.io](https://exercism.io/)
 - Two Fer
 - Leap
 
-### JavaScript(1)
+### JavaScript(2)
 
 - Hello World
+- Two Fer
 
-## In Progress (2)
+## In Progress (3)
 
 ### Java (1)
 
@@ -39,5 +40,5 @@ To learn more about the platform visit [exercism.io](https://exercism.io/)
 
 ### JavaScript(1)
 
-- Two Fer
+- Resistor Color
 
