@@ -2,3 +2,4 @@
 **/**/.exercism
 **/**/.gradle
 **/**/build
+**/**/node_modules
